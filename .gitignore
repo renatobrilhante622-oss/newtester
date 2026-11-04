@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+.vs/
+.idea/
+*.user
+*.apk
+*.aab
+*.keystore
+*.jks
+local-assets/
